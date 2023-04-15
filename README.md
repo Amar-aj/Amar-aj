@@ -17,8 +17,42 @@
 🔭 I’m currently working on .Net Core Blazor, Django and AWS <br>🌱 I’m currently learning AWS, Angular and Nextjs<br>💬 Ask me about anything related to Web Development and Software Development
 </strong>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![MSSQL](https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## Tech Stack 💻
+#### Languages
+![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5) ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart) ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown) 
+
+#### JS Framework/Library
+![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=jquery) ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+
+#### CSS Framework/Library/Pre-processors
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css) ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+
+#### Design/Visual Tools
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+#### Database/State
+![MsSql](https://img.shields.io/badge/-MsSql-000?style=for-the-badge&logo=ms-sql) ![MySql](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql) ![Sqlite](https://img.shields.io/badge/-Sqlite-000?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=sqlite)
+
+
+#### Backend
+![.Net](https://img.shields.io/badge/-.Net-000?style=for-the-badge&logo=.net&logoColor=pink) ![Django](https://img.shields.io/badge/-django-000?style=for-the-badge&logo=django)
+
+#### Web Hosting
+![IIS](https://img.shields.io/badge/-iis-000?style=for-the-badge&logo=iis) ![AWS](https://img.shields.io/badge/-aws-000?style=for-the-badge&logo=amazon-aws) ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+
+#### Package Manager
+![nuget package](https://img.shields.io/badge/-nuget%20package-000?style=for-the-badge&logo=nuget-package) ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github) ![GitLab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab)
+
+
+#### Favorite IDE
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=visualstudio) ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code) ![Android Studio](https://img.shields.io/badge/Android%20Studio-000?style=for-the-badge&logo=android-studio&logoColor=white) ![Pycharm](https://img.shields.io/badge/-Pycharm-000?style=for-the-badge&logo=pycharm) ![Webstorm](https://img.shields.io/badge/-WebStorm-000?style=for-the-badge&logo=WebStorm)
 
 <hr>
 

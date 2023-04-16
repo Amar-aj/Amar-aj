@@ -26,7 +26,7 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=jquery) ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 
 #### CSS Framework/Library/Pre-processors
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css) ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css) ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=scss)
 
 #### Design/Visual Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)

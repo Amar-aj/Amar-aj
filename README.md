@@ -29,7 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css) ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=scss)
 
 #### Design/Visual Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### Database
 ![MsSql](https://img.shields.io/badge/-MsSql-000?style=for-the-badge&logo=ms-sql) ![MySql](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql) ![Sqlite](https://img.shields.io/badge/-Sqlite-000?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=sqlite)
